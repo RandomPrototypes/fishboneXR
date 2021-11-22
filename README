@@ -1,0 +1,13 @@
+Fishbone XR
+
+To run this app, you must activate hand tracking and experimental mode to activate the passthrough.
+
+To use voice command, pinch your thumb and index finger, then talk.
+List of the voice commands :
+open menu.
+open calibration.
+set speed 50 percent. (of course, you can say any number)
+enable/disable ground.
+
+For the calibration :
+Align the view to your environment, then pinch your thumb and index to validate.
